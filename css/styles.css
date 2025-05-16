@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto", sans-serif, "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -10,11 +10,9 @@ body{
 .mail{
     color: #434455;
     text-decoration: none;
-    width: 153px;
-    height: 24px;
     font-size: 16px;
     line-height: 1.5em;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
 }
 .mail:hover{
     color: #404BBF;
@@ -22,21 +20,7 @@ body{
 .mail:focus{
     color: #404BBF;
 }
-.tel{
-    color: #434455;
-    text-decoration: none;
-    width: 151px;
-    height: 24px;
-    font-size: 16px;
-    line-height: 1.5em;
-    letter-spacing: 2%;
-}
-.tel:hover{
-    color: #404BBF;
-}
-.tel:focus{
-    color: #404BBF;
-}
+
 .header-logo{
 color: #4d5ae5;
 font-family: "Raleway", sans-serif;
@@ -86,30 +70,8 @@ text-decoration: none;
     text-decoration: underline;
 }
 
-.portfolio{
-    color: #2E2F42;
-    font-size: 16px;
-    line-height: 1.5em;
-    letter-spacing: 0.02;
-    text-decoration: none;
-}
-.portfolio:hover{
-    color: #404BBF;
-}
-.contacts{
-    color: #2E2F42;
-    font-size: 16px;
-    line-height: 1.5em;
-    letter-spacing: 0.02;
-    text-decoration: none;
-}
-.contacts:hover{
-    color: #404BBF;
-}
 .button{
     color: #FFFFFF;
-    width: 169px;
-    height: 56px;
     background-color: #4D5AE5;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
