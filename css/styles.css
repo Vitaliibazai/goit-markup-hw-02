@@ -7,6 +7,8 @@ body{
 .header{
 
 }
+ul {list-style: none;
+}
 .mail{
     color: #434455;
     text-decoration: none;
